@@ -2,7 +2,6 @@
 
 using namespace std;
 
-
 int main(){
     cout << "Input value for a: ";
     int a;
